@@ -1,6 +1,6 @@
 {
   "name": "abhay-singh",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Personal branding CLI for Abhay Singh",
   "main": "index.js",
   "bin": {
