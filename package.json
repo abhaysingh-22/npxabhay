@@ -1,0 +1,21 @@
+{
+  "name": "abhay-singh",
+  "version": "1.0.0",
+  "description": "Personal branding CLI for Abhay Singh",
+  "main": "index.js",
+  "bin": {
+    "abhay-singh": "index.js"
+  },
+  "keywords": [
+    "cli",
+    "personal",
+    "branding",
+    "abhay-singh"
+  ],
+  "author": "Abhay Singh",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  },
+  "type": "module"
+}
