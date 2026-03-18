@@ -76,7 +76,7 @@ async function main() {
   console.log();
   console.log(chalk.gray("  " + "─".repeat(52)));
   console.log(
-    chalk.italic.gray("     Built with ❤️  by Abhay Singh")
+    chalk.italic.gray("     By abhayyysingh ")
   );
   console.log();
 }
