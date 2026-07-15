@@ -54,7 +54,7 @@ async function main() {
     {
       emoji: "📄",
       label: "Resume   ",
-      url: "https://drive.google.com/drive/folders/1wqdrZNtHRNrWgSonwD2bExHfstKaXveE?usp=sharing",
+      url: "https://shorturl.at/cxxzT",
       color: chalk.hex("#FACC15"),
     },
     {
