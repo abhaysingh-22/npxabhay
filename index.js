@@ -14,7 +14,7 @@ async function main() {
   );
   console.log(
     chalk.gray(
-      "     GenAI Full Stack Developer | AI Automation | Agents | Designer"
+      "     Software & AI Engineer"
     )
   );
   console.log(chalk.gray("  " + "─".repeat(52)));
@@ -41,8 +41,8 @@ async function main() {
     },
     {
       emoji: "🐦",
-      label: "X        ",
-      url: "https://x.com/build_nextera",
+      label: "Portfolio  ",
+      url: "https://abhay.cidc.dev/",
       color: chalk.hex("#1DA1F2"),
     },
     {
